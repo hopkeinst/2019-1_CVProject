@@ -1,6 +1,6 @@
 # Proyecto Final de Visión por Computador
 
-![Banner](https://github.com/hopkeinst/2019-1_CVProject/otros/banner.jpg)
+![Banner](https://github.com/hopkeinst/2019-1_CVProject/blob/master/otros/banner.jpg)
 
 **Autor:** Jorge Saul Castillo Jaimes
 
@@ -26,3 +26,5 @@ Los códigos usados para el desarrollo del sistema se dividen en:
 ## Videos informativos
 
 - Funcionamiento parcial, en Raspberry Pi3: (Video Youtube)[https://www.youtube.com/watch?v=cPiWHs5UfCQ]
+
+- Explicación del funcionamiento del
