@@ -27,4 +27,4 @@ Los códigos usados para el desarrollo del sistema se dividen en:
 
 - Funcionamiento parcial, en Raspberry Pi3: (Video Youtube)[https://www.youtube.com/watch?v=cPiWHs5UfCQ]
 
-- Explicación del funcionamiento del
+- Explicación del funcionamiento del sistema. 
